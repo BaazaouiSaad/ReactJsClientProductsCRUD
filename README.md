@@ -1,2 +1,0 @@
-# ReactJsClientProductsCRUD
-Created with CodeSandbox
